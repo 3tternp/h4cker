@@ -1,5 +1,5 @@
 # Base Image
-FROM node:12-slim
+FROM node:iron-bookworm-slim
 WORKDIR /usr/src/app
 
 # Install Dependencies
